@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF: 1,  TIGO SPORTS +
+https://d24zg71546pjzz.cloudfront.net:443/out/v1/8487b3e109af4961810beeb2339c91e3/index_6.m3u8
+#EXTINF: 1,  Tigo Sport 
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DEPORTES SD | MOVISTAR LIGA DE CAMPEONES
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/913
+#EXTINF:0 tvg-id="ESPN.ar" group-title="DEPORTES",DEPORTES SD | ESPN ARGENTINA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/935
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DEPORTES SD | GOL TV ECUADOR
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/937
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DEPORTES SD | DIRECTV SPORTS PLUS
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/942
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DEPORTES SD | DIRECTV SPORTS 2
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/943
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DEPORTES SD | DIRECTV
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/944
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DEPORTES SD | BEIN SPORTS USA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/7148
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DEPORTES SD | BEIN SPORTS Ã‘
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/933
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DEPORTES SD | CLARO SPORTS COLOMBIA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/83862
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="DEPORTES",DEPORTES SD | FOX SPORTS  ARGENTINA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/97143
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="DEPORTES",DEPORTES SD | ESPN 2 ARGENTINA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/97144
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR HQ",ECUADOR HQ | CANAL DEL FUTBOL
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/72740
+EXTINF:0 tvg-id="ext" group-title="DEPORTES HD",DEPORTE HD | ESPN 3 LATINO
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6250
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES HD",DEPORTE HD | BEIN SPORTS USA Ã‘
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6251
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES HD",DEPORTE HD | DIRECTV SPORTS
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6252
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES HD",DEPORTE HD | DIRECTV SPORTS 2
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6253
+#EXTINF:0 tvg-id="ESPN.ar" group-title="DEPORTES HD",DEPORTE HD | ESPN 1 ARGENTINA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6254
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="DEPORTES HD",DEPORTE HD | ESPN 2 ARGENTINA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6255
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES HD",DEPORTE HD | ESPN 3 ARGENTINA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6256
+#EXTINF:0 tvg-id="FoxSports2.ar" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 2 LATINO
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6257
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 1 LATINO
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6258
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS ARGENTINA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6259
+#EXTINF:0 tvg-id="FoxSports2.ar" group-title="DEPORTES HD",DEPORTE HD | FOX SPORTS 2 ARGENTINA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6260
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES HD",DEPORTE HD | GOL TV ECUADOR
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6264
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES HD",DEPORTE HD |  TNT SPORTS CHILE
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6269
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES HD",DEPORTES HD | WIN SPORTS + COLOMBIA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/33394
+#EXTINF:0 tvg-id="ext" group-title="COLOMBIA HQ",COLOMBIA HQ | WIN SPORTS
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87785
+#EXTINF:0 tvg-id="ext" group-title="BOLIVIA HQ",BOLIVIA HQ | TIGO SPORTS
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/95209
+#EXTINF:0 tvg-id="ext" group-title="BOLIVIA HQ",BOLIVIA HQ | TIGO SPORTS 2
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/95210
+#EXTINF:0 tvg-id="ext" group-title="PARAGUAY HQ",PARAGUAY HQ | TIGO SPORTS
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/66427
+#EXTINF:0 tvg-id="ext" group-title="PARAGUAY HQ",PARAGUAY HQ | TIGO SPORTS PLUS
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/66428
+
+
+
+
+
